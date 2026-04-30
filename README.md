@@ -30,7 +30,8 @@ A number guessing game where the user defines a lower and upper bound, and the p
 * PyCharm
 * Jupyter Notebook
 
-## Author
+---
 
-Justin Carlo Florida
+## Author
+Justin Carlo Florida  
 Computer Science Student | Software Engineering
